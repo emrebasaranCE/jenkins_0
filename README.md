@@ -20,4 +20,11 @@ For educational purposes, we created mysql container inside our vm with another 
 On AWS side we just created a s3 bucket for our files. After we created a simple bash like [script.sh](./script.sh). With this script, you can easily send files to your bucket.
 
 
-In this example, i understand basic knowladge of jenkins and i am passionate to learn new things about it!!
+### Final Thoughts
+
+In this project, I got hands-on experience with:
+- Jenkins setup
+- Docker containers
+- Remote scripting over SSH
+- AWS S3 integration
+
